@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/jaudiotagger-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/tika-app-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/lib/customizer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/lib/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Десислав/Documents/GitHub/HommyWindowsApp/HommyWindowsApp/HommyWindowsClient/External JAR&apos;s/lib/multiplayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,20 @@
+package com.hommy.windows.client;
+
+import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
+
+public class PlayMusic {
+
+
+	public static void play() throws IOException {
+		URI theURI;
+		try {
+			theURI = new URI("https://www.youtube.com/watch?v=v_ici9SWJ-Y");
+			java.awt.Desktop.getDesktop().browse(theURI);
+		} catch (URISyntaxException e) {
+			e.printStackTrace();
+		}
+		
+	 }
+}

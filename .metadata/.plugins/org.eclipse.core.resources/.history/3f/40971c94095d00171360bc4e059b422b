@@ -1,0 +1,11 @@
+package com.hommy.windows.client;
+
+import javazoom.jl.player.Player;
+
+public class PlayMusic {
+
+
+	public static void main(String[] args) {
+	
+	 }
+}

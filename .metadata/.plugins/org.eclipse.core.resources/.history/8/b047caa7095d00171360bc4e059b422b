@@ -1,0 +1,15 @@
+package com.hommy.windows.client;
+
+import java.net.URI;
+
+import javazoom.jl.player.Player;
+
+public class PlayMusic {
+
+
+	public static void main(String[] args) {
+	
+		URI theURI = new URI("https://www.youtube.com/watch?v=v_ici9SWJ-Y");
+		java.awt.Desktop.getDesktop().browse(theURI);
+	 }
+}

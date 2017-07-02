@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void receiveMessageFromServer(Socket client) throws IOException &apos; from &apos;com.hommy.windows.client.HommyClient.main()&apos; to &apos;com.hommy.windows.client.HommyClient&apos;&#x0D;&#x0A;- Original project: &apos;HommyWindowsClient&apos;&#x0D;&#x0A;- Method name: &apos;receiveMessageFromServer&apos;&#x0D;&#x0A;- Destination type: &apos;com.hommy.windows.client.HommyClient&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;receiveMessageFromServer&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.hommy.windows.client{HommyClient.java" name="receiveMessageFromServer" replace="false" selection="850 234" stamp="1498759839249" version="1.0" visibility="2"/>
+</session>
